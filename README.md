@@ -32,17 +32,6 @@
 
 ---
 
-## 🎬 **See MoodTunes in Action**
-
-### 📺 **How It Works - Complete Walkthrough**
-<div align="center">
-
-https://github.com/MOODTUNES_EXPLANATION%20(1)%20(1).mp4
-
-*Complete demonstration of the MoodTunes experience from photo upload to AI-generated song*
-
-</div>
-
 ### 🎵 **Sample Generated Songs**
 
 <table>
@@ -52,7 +41,7 @@ https://github.com/MOODTUNES_EXPLANATION%20(1)%20(1).mp4
 **🌅 "Golden Hour Dreams"**  
 *Generated from sunset beach photo*
 
-https://github.com/user-attachments/assets/MOODTUNES_SONG1.mp4
+[MOODTUNES_SONG1.mp4](https://github.com/hanish9193/MoodTunes/blob/main/MOODTUNES_SONG1.mp4)
 
 🎼 **Genre:** Ambient Chill  
 🎯 **Mood:** Peaceful & Reflective  
@@ -64,7 +53,7 @@ https://github.com/user-attachments/assets/MOODTUNES_SONG1.mp4
 **🏔️ "Summit Victory"**  
 *Created from mountain peak adventure*
 
-https://github.com/user-attachments/assets/MOODTUNES_SONG2.mp4
+[MOODTUNES_SONG2.mp4](https://github.com/hanish9193/MoodTunes/blob/main/MOODTUNES_SONG2.mp4)
 
 🎼 **Genre:** Epic Orchestral  
 🎯 **Mood:** Triumphant & Inspiring  
